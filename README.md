@@ -1,1 +1,2 @@
-# testGitRepo
+my testGitRepo. 
+Hello World!
